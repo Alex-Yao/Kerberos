@@ -1,0 +1,4 @@
+# Kerberos
+基于Kerberos的文件下载服务
+
+计算机网络安全课程结课作业，基于Kerberos安全认证的应用。项目在Kerberis基础性下实现文件的上传下载功能。
